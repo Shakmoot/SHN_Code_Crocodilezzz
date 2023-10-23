@@ -1,8 +1,11 @@
 ![Flet](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/4c26e8ac-2dd1-4d75-8e1a-9f7585e3b381)
 
 
-# Croc Store
-This porject is a online food and grocies app which makes the tedious process of shopping much easier.
+# CroCo Store
+This porject is a online food and grocies app which makes the tedious process of shopping much easier. This project aims to provide an efficient and user-friendly platform for customers.
+- Shoppng cart: Users can add items to their shopping cart and review their selections before making a purchase.
+
+The develepment of CroCo Store involves the use of python and flutter.
 ## Team members
 1. [Shahrukh Dawood](https://github.com/Shakmoot)
 2. [Alwin Emmanuel Sebastian](https://github.com/Alwin42)
